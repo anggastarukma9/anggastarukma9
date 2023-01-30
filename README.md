@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.buymeacoffee.com/gastacodest" target="_blank"><img src=" https://cdn.buymeacoffee.com/buttons/default-orange.png " alt="Beli Saya Kopi" height="37" width="174"></a>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=BEF718&background=FF1F1F00&width=435&lines=Hey+welcome+to+my+github)](https://git.io/typing-svg)
 
-<a href=" https://www.buymeacoffee.com/absatyaprakash " target="_blank"><img src=" https://cdn.buymeacoffee.com/buttons/default-orange.png " alt="Beli Saya Kopi" height="41" width="174"></a>
+
  
-[![LinkedIn]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anggasta-rukma-a-)
+[![LinkedIn]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/anggasta-rukma-a- )
